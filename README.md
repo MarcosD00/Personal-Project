@@ -1,12 +1,7 @@
+## Turbo Piston
 
-```markdown
-# Turbo Piston
+# Index
 
-## Database Schema Design
-
-[Turbo Piston Database Schema]
-
-![db diagram](https://github.com/MarcosD00/Personal-Project/assets/100183552/25cd6939-8744-4fec-95df-83766d640247)
+[Database Schema](https://github.com/MarcosD00/Personal-Project/wiki/Database-Diagram)|
 
 ## API Documentation
-```

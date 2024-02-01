@@ -6,7 +6,7 @@
 
 [Turbo Piston Database Schema]
 
-./Images/db_diagram.png
+Images/db_diagram.png
 
 ## API Documentation
 ```

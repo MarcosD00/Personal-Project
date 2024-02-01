@@ -1,6 +1,6 @@
-Turbo Piston
+
 ```markdown
-# [title]
+# Turbo Piston
 
 ## Database Schema Design
 

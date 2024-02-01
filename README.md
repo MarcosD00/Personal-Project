@@ -4,7 +4,7 @@
 
 ## Database Schema Design
 
-![db-schema]
+[Turbo Piston Database Schema]
 
 [db-schema]: ./images/example.png
 

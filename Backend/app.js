@@ -9,7 +9,6 @@ const cookieParser = require('cookie-parser');
 const routes = require('./routes');
 
 const { ValidationError } = require('sequelize');
-// ...
 
 app.use(routes); // Connect all the routes
 

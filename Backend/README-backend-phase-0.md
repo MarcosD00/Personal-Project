@@ -581,7 +581,7 @@ router.get("/api/csrf/restore", (req, res) => {
 This route should not be available in production, but it will not be exclusive
 to the production application until you implement the frontend of the
 application later. So for now, it will remain available to both the development
-and production environments.
+and production environments
 
 ## Commit your code
 

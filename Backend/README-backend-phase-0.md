@@ -562,7 +562,7 @@ In this route, you are setting a cookie on the response with the
 name of `XSRF-TOKEN` to the value of the `req.csrfToken` method's return. Then,
 send the token as the response for easy retrieval.
 
-Add this route to the `backend/routes/index.js` file.
+Add this route to the `backend/routes/index.js` file
 
 ```js
 // backend/routes/index.js
